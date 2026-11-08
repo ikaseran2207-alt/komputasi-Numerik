@@ -1,0 +1,25 @@
+===================================================
+LOG RIWAYAT PROMPT AI - KOMPUTASI NUMERIK
+===================================================
+
+[PROMPT 1]
+cara Buat Algoritma Penyelesaian Sistem Persamaan Linear 3 variabel 
+dan simpan pada Repository "Komputasi Numerik" di Github
+
+---------------------------------------------------
+
+[PROMPT 2]
+nama file
+
+---------------------------------------------------
+
+[PROMPT 3]
+Apa isi lengkap dari file spltv_gauss.py dan bagaimana cara menjalankannya di terminal?
+
+---------------------------------------------------
+
+[PROMPT 4]
+cara Simpan seluruh prompt AI yang Anda gunakan dalam sebuah file .txt 
+dan simpan pada Repository "Komputasi Numerik" di Github
+
+===================================================
